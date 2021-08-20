@@ -1,0 +1,12 @@
+name: CFPBComplaintExplorer
+title: CFPBComplaintExplorer
+username:
+account: jcinterrante
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3812582
+bundleId: 4361719
+url: https://jcinterrante.shinyapps.io/CFPBComplaintExplorer/
+when: 1616040400.10462
+asMultiple: FALSE
+asStatic: FALSE
